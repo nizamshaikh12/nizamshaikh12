@@ -6,19 +6,8 @@
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=01696F&center=true&vCenter=true&width=650&lines=MSc+Financial+Technology+%40+NCI+Dublin+%F0%9F%87%AE%F0%9F%87%AA;4%2B+Years+in+Financial+Operations+%7C+SS%26C+Technologies;Machine+Learning+for+Finance+%7C+AML+%7C+RegTech;Python+%7C+SQL+%7C+Power+BI+%7C+Blockchain" alt="Typing SVG" />
 
-<!-- CONNECT ICONS (top) -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/nizam-shaikh-90b737199" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:shaikhmohdnizam661@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/sammynizam" target="_blank" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X Twitter" />
-  </a>&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=nizamshaikh12&color=01696F&style=for-the-badge&label=PROFILE+VIEWS" />
-</p>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=nizamshaikh12&color=01696F&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -51,17 +40,33 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 ### 📊 Data & Analytics
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,tableau,powerbi,excel&perrow=10" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
 ### ☁️ Platforms & Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=jupyter,googlecolab,github,git,aws,docker,vscode,latex&perrow=10" />
+  <img src="https://skillicons.dev/icons?i=github,git,aws,docker,vscode,latex&perrow=10" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 
 ### 🔗 Blockchain
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ethereum,solidity,metamask,ipfs&perrow=10" />
+  <img src="https://skillicons.dev/icons?i=solidity&perrow=10" />
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" />
 </p>
 
 ---
