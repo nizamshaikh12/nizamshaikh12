@@ -14,7 +14,7 @@
   <a href="mailto:shaikhmohdnizam661@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/NizamSh44857040" target="_blank" title="X (Twitter)">
+  <a href="https://x.com/sammynizam" target="_blank" title="X (Twitter)">
     <img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" alt="X Twitter" />
   </a>&nbsp;&nbsp;
   <img src="https://komarev.com/ghpvc/?username=nizamshaikh12&color=01696F&style=for-the-badge&label=PROFILE+VIEWS" />
@@ -131,7 +131,7 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
   <a href="mailto:shaikhmohdnizam661@gmail.com" title="Send an Email">
     <img src="https://skillicons.dev/icons?i=gmail" width="52" height="52" alt="Gmail" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/NizamSh44857040" target="_blank" title="Follow on X">
+  <a href="https://x.com/sammynizam" target="_blank" title="Follow on X @sammynizam">
     <img src="https://skillicons.dev/icons?i=twitter" width="52" height="52" alt="X Twitter" />
   </a>
 </p>
