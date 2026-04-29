@@ -36,36 +36,59 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+### 💻 Programming Languages
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-009900?style=for-the-badge&logo=xgboost&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br/><sub><b>Python</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" /><br/><sub><b>R</b></sub></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br/><sub><b>JavaScript</b></sub></a>&nbsp;&nbsp;
+  <a href="https://docs.soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /><br/><sub><b>Solidity</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL" /><br/><sub><b>SQL</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br/><sub><b>PostgreSQL</b></sub></a>
+</p>
 
-### 📈 Visualisation & BI
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+### 🧠 Machine Learning & AI
+
+<p align="left">
+  <a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br/><sub><b>TensorFlow</b></sub></a>&nbsp;&nbsp;
+  <a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br/><sub><b>PyTorch</b></sub></a>&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br/><sub><b>Scikit-Learn</b></sub></a>&nbsp;&nbsp;
+  <a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br/><sub><b>OpenCV</b></sub></a>&nbsp;&nbsp;
+  <a href="https://keras.io/"><img src="https://skillicons.dev/icons?i=keras" width="48" height="48" alt="Keras" /><br/><sub><b>Keras</b></sub></a>
+</p>
+
+### 📊 Data & Analytics
+
+<p align="left">
+  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br/><sub><b>Pandas</b></sub></a>&nbsp;&nbsp;
+  <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br/><sub><b>NumPy</b></sub></a>&nbsp;&nbsp;
+  <a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matplotlib" width="48" height="48" alt="Matplotlib" /><br/><sub><b>Matplotlib</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.tableau.com/"><img src="https://skillicons.dev/icons?i=tableau" width="48" height="48" alt="Tableau" /><br/><sub><b>Tableau</b></sub></a>&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com/"><img src="https://skillicons.dev/icons?i=powerbi" width="48" height="48" alt="Power BI" /><br/><sub><b>Power BI</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://skillicons.dev/icons?i=excel" width="48" height="48" alt="Excel" /><br/><sub><b>Excel</b></sub></a>
+</p>
 
 ### ☁️ Platforms & Dev Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
+
+<p align="left">
+  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" /><br/><sub><b>Jupyter</b></sub></a>&nbsp;&nbsp;
+  <a href="https://colab.research.google.com/"><img src="https://skillicons.dev/icons?i=googlecolab" width="48" height="48" alt="Google Colab" /><br/><sub><b>Colab</b></sub></a>&nbsp;&nbsp;
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br/><sub><b>GitHub</b></sub></a>&nbsp;&nbsp;
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br/><sub><b>Git</b></sub></a>&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br/><sub><b>AWS</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br/><sub><b>Docker</b></sub></a>&nbsp;&nbsp;
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br/><sub><b>VS Code</b></sub></a>&nbsp;&nbsp;
+  <a href="https://www.overleaf.com/"><img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX" /><br/><sub><b>LaTeX</b></sub></a>
+</p>
 
 ### 🔗 Blockchain
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+
+<p align="left">
+  <a href="https://ethereum.org/"><img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" /><br/><sub><b>Ethereum</b></sub></a>&nbsp;&nbsp;
+  <a href="https://docs.soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" /><br/><sub><b>Solidity</b></sub></a>&nbsp;&nbsp;
+  <a href="https://metamask.io/"><img src="https://skillicons.dev/icons?i=metamask" width="48" height="48" alt="MetaMask" /><br/><sub><b>MetaMask</b></sub></a>&nbsp;&nbsp;
+  <a href="https://ipfs.tech/"><img src="https://skillicons.dev/icons?i=ipfs" width="48" height="48" alt="IPFS" /><br/><sub><b>IPFS</b></sub></a>
+</p>
 
 ---
 
