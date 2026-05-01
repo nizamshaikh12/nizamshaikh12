@@ -30,12 +30,12 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js,solidity,mysql,postgres&perrow=10" />
+  <img src="https://skillicons.dev/icons?i=python,r,solidity,mysql&perrow=10" />
 </p>
 
 ### 🧠 Machine Learning & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,keras&perrow=10" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,keras&perrow=10" />
 </p>
 
 ### 📊 Data & Analytics
@@ -44,7 +44,6 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -52,7 +51,7 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 ### ☁️ Platforms & Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=github,git,aws,docker,vscode,latex&perrow=10" />
+  <img src="https://skillicons.dev/icons?i=github,git,aws,vscode,latex&perrow=10" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp;
@@ -60,9 +59,6 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 </p>
 
 ### 🔗 Blockchain
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity&perrow=10" />
-</p>
 <p align="left">
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge&logo=metamask&logoColor=white" />&nbsp;
