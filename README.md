@@ -71,7 +71,7 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 🏦 | **AML Transaction Monitoring XplainTM** *(In Progress)* | Cost-sensitive ML models (XGBoost, RF) for suspicious transaction detection with SHAP explainability | Python · XGBoost · SMOTE · SHAP · LIME |
+| 🏦 | **[AML Transaction Monitoring XplainTM](https://github.com/nizamshaikh12/AML-Transaction-Monitoring-XplainTM)** *(In Progress)* | Cost-sensitive ML models (XGBoost, RF) for suspicious transaction detection with SHAP explainability | Python · XGBoost · SMOTE · SHAP · LIME |
 | 📈 | **Portfolio Management — Deep RL** *(In Progress)* | Dynamic asset allocation using LSTM & Deep Reinforcement Learning with VaR/CVaR risk controls | Python · LSTM · DRL · Yahoo Finance |
 | 🌾 | **[Rural Agri-Financial Digital Hub](https://github.com/nizamshaikh12/Rural-Agri-Finance-Digital-Hub-RAFDH-)** | FinTech platform bridging rural farmers and formal financial systems — GDPR & SDG compliant | Research · Data Governance · RegTech |
 | 🔗 | **[Blockchain Technologies — ERC20/ERC721](https://github.com/nizamshaikh12/Blockchain-Technologies)** | NizGalaxyTokens (ERC20) tokenization & NFT (ERC721) implementation on Ethereum testnet | Solidity · Ganache · MetaMask · IPFS |
