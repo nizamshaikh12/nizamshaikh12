@@ -20,7 +20,7 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 - 🎓 **MSc Financial Technology** — NCI Dublin, Ireland *(Sept 2025 – Present)*
 - 💼 **Senior Financial Services Operations** — SS&C Financial Technologies, Mumbai *(2021–2025)*
 - 🌍 Based in **Dublin, Ireland** | Open to FinTech, AML, Data & Operations roles
-- 🔭 Building projects in **AML Detection**, **Portfolio Management (DRL)**, **Explainable AI**
+- 🔭 Building projects in **AML Detection**, **Portfolio Management (AI & DRL)**, **Explainable AI**
 - 🌱 Deepening skills in **SHAP/LIME**, **RegTech for SMEs**, **Deep Reinforcement Learning**
 - 🏆 **Spot Award 2024** — Zero record-keeping breaches across full performance year
 
@@ -72,7 +72,7 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
 | 🏦 | **[AML Transaction Monitoring XplainTM](https://github.com/nizamshaikh12/AML-Transaction-Monitoring-XplainTM)** *(In Progress)* | Cost-sensitive ML models (XGBoost, RF) for suspicious transaction detection with SHAP explainability | Python · XGBoost · SMOTE · SHAP · LIME |
-| 📈 | **Portfolio Management — Deep RL** *(In Progress)* | Dynamic asset allocation using LSTM & Deep Reinforcement Learning with VaR/CVaR risk controls | Python · LSTM · DRL · Yahoo Finance |
+| 📈 | **[Crypto Portfolio Management — AI & DRL](https://github.com/nizamshaikh12/crypto-portfolio-prediction-ai)** *(In Progress)* | Adaptive cryptocurrency portfolio management using AI models (RF, XGBoost, CNN, LSTM, GRU) with transaction-cost-aware backtesting and SHAP explainability | Python · LSTM · GRU · XGBoost · SHAP |
 | 🌾 | **[Rural Agri-Financial Digital Hub](https://github.com/nizamshaikh12/Rural-Agri-Finance-Digital-Hub-RAFDH-)** | FinTech platform bridging rural farmers and formal financial systems — GDPR & SDG compliant | Research · Data Governance · RegTech |
 | 🔗 | **[Blockchain Technologies — ERC20/ERC721](https://github.com/nizamshaikh12/Blockchain-Technologies)** | NizGalaxyTokens (ERC20) tokenization & NFT (ERC721) implementation on Ethereum testnet | Solidity · Ganache · MetaMask · IPFS |
 | 📉 | **[Portfolio Analysis & Derivatives](https://github.com/nizamshaikh12/Portfolio-Analysis-Derivatives-Research)** | Quantitative CAPM/Beta portfolio analysis + research on derivative markets and the 2008 crisis | Excel · CAPM · Financial Modelling |
