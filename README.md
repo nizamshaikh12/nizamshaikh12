@@ -17,7 +17,7 @@
 
 I am a **FinTech professional** combining **4+ years of hands-on financial operations experience** at a global asset management firm with an **MSc in Financial Technology** at the National College of Ireland, Dublin.
 
-- 🎓 **MSc Financial Technology** — NCI Dublin, Ireland *(Sept 2025 – Present)*
+- 🎓 **MSc Financial Technology** — NCI Dublin, Ireland - First Class Honours *(Sept 2025 – Oct - 2026)*
 - 💼 **Senior Financial Services Operations** — SS&C Financial Technologies, Mumbai *(2021–2025)*
 - 🌍 Based in **Dublin, Ireland** | Open to FinTech, AML, Data & Operations roles
 - 🔭 Building projects in **AML Detection**, **Portfolio Management (AI & DRL)**, **Explainable AI**
@@ -71,8 +71,8 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 | # | Project | Description | Tech Stack |
 |---|---------|-------------|------------|
-| 🏦 | **[AML Transaction Monitoring XplainTM](https://github.com/nizamshaikh12/AML-Transaction-Monitoring-XplainTM)** *(In Progress)* | Cost-sensitive ML models (XGBoost, RF) for suspicious transaction detection with SHAP explainability | Python · XGBoost · SMOTE · SHAP · LIME |
-| 📈 | **[Crypto Portfolio Management — AI & DRL](https://github.com/nizamshaikh12/crypto-portfolio-prediction-ai)** *(In Progress)* | Adaptive cryptocurrency portfolio management using AI models (RF, XGBoost, CNN, LSTM, GRU) with transaction-cost-aware backtesting and SHAP explainability | Python · LSTM · GRU · XGBoost · SHAP |
+| 🏦 | **[AML Transaction Monitoring XplainTM](https://github.com/nizamshaikh12/AML-Transaction-Monitoring-XplainTM)** | Cost-sensitive ML models (XGBoost, RF) for suspicious transaction detection with SHAP explainability | Python · XGBoost · SMOTE · SHAP · LIME |
+| 📈 | **[Crypto Portfolio Management — AI & DRL](https://github.com/nizamshaikh12/crypto-portfolio-prediction-ai)** | Adaptive cryptocurrency portfolio management using AI models (RF, XGBoost, CNN, LSTM, GRU) with transaction-cost-aware backtesting and SHAP explainability | Python · LSTM · GRU · XGBoost · SHAP |
 | 🌾 | **[Rural Agri-Financial Digital Hub](https://github.com/nizamshaikh12/Rural-Agri-Finance-Digital-Hub-RAFDH-)** | FinTech platform bridging rural farmers and formal financial systems — GDPR & SDG compliant | Research · Data Governance · RegTech |
 | 🔗 | **[Blockchain Technologies — ERC20/ERC721](https://github.com/nizamshaikh12/Blockchain-Technologies)** | NizGalaxyTokens (ERC20) tokenization & NFT (ERC721) implementation on Ethereum testnet | Solidity · Ganache · MetaMask · IPFS |
 | 📉 | **[Portfolio Analysis & Derivatives](https://github.com/nizamshaikh12/Portfolio-Analysis-Derivatives-Research)** | Quantitative CAPM/Beta portfolio analysis + research on derivative markets and the 2008 crisis | Excel · CAPM · Financial Modelling |
@@ -97,8 +97,8 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 
 | Degree | Institution | Grade | Period |
 |--------|-------------|-------|--------|
-| **MSc Financial Technology** | National College of Ireland, Dublin 🇮🇪 | *In Progress* | 2025 – Present |
-| **BMS Finance** | University of Mumbai, India 🇮🇳 | **2:1 Honours** | 2018 – 2021 |
+| **MSc Financial Technology** | National College of Ireland, Dublin 🇮🇪 | **1:1 First Class Honours** | 2025 – 2026 |
+| **BMS Finance** | University of Mumbai, India 🇮🇳 | **2:1 Second Class Honours** | 2018 – 2021 |
 
 **MSc Modules:** Blockchain Technologies · AI for Finance · Machine Learning for Finance · Financial Regulations · Payments & Transaction Services · Data Governance · Ethics & Sustainability · Programming for Financial Data Science
 
@@ -118,7 +118,7 @@ I am a **FinTech professional** combining **4+ years of hands-on financial opera
 **SS&C Financial Technologies | Senior Financial Services Operations Representative** *(2021–2025)*
 > Managed cash management, reconciliations and client reporting for institutional clients including Aberdeen, AXA, JPMorgan, Royal London & Vanguard. Led process automation (SDBS Mega Tool), delivered team training, acted as team lead and supported UK senior stakeholders on governance and compliance.
 
-**National College of Ireland | MSc FinTech Student** *(2025–Present)*
+**National College of Ireland | MSc FinTech Student** *(2025–2026)*
 > Building advanced capabilities in ML for finance, blockchain, AI, regulatory technology and financial data science through coursework and independent capstone research projects.
 
 ---
